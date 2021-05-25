@@ -1,9 +1,9 @@
-# Criptografar-e-Descriptografar
-Criando uma criptografia nova, usando logica simples.
+# Encrypt and decrypt
+Creating a new encryption, using simple logic.
 
-O script pode ser compilado para windows ou linux, 
+The script can be compiled for Windows or Linux,
 
-ou demais sistemas operacionas, 
-porém não ouve nenhum tratamento para estes,
+or other operating systems,
+but you don't hear any treatment for them,
 
-podendo não funcionar com maestria.
+it may not work with mastery.
