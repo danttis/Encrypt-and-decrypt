@@ -21,7 +21,7 @@ int main(){
 
   if(x == 'c'){
     printf("Digite o que deseja criptogafar: ");
-    fgets(nome, 49, stdin);//Limpando a(enter) do buffer do teclado 
+    fgets(nome, 49, stdin);//Limpando (a)/(enter) do buffer do teclado 
     fgets(nome, 49, stdin); 
     for(int i = 0; i < strlen(nome) ; i++){
       crypter[i] = nome[i] + dicionario[i+2];//Strings podem ser incrementadas ou decrementadas mudando assim para outro valor na Tabela ASCII
